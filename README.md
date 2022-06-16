@@ -9,7 +9,7 @@
   
   ***
   
-  [BIO](https://velog.io/@kajpjs0508/)
+  [BIO](https://velog.io/@kajpjs0508/bio)
   
   ***
   <div align="right">
