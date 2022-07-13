@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=js%&fontSize=45)  
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=JUNS.JS%&fontSize=45)  
   ***
   </div>
   
