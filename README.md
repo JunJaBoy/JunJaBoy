@@ -53,7 +53,9 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJ Idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-1c1c1c?style=flat-square&logo=figma&logoColor=pink"/>
   
-  <a align="center" href="https://music.youtube.com/playlist?list=PL4VIU0OnVB6hnmhjupKfSloXFBcUUvnmE&feature=share>
-    <img width="5%" src ="https://user-images.githubusercontent.com/101160207/182961411-65129cf8-fa7f-4cfe-9470-7b4b187084d0.svg"/>
-  </a>
+    <div aligh="center">
+      <a href="https://music.youtube.com/playlist?list=PL4VIU0OnVB6hnmhjupKfSloXFBcUUvnmE&feature=share">
+        <img width="5%" src ="https://user-images.githubusercontent.com/101160207/182961411-65129cf8-fa7f-4cfe-9470-7b4b187084d0.svg"/>
+      </a>
+    </div>
 </body>
