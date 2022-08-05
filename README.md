@@ -1,5 +1,10 @@
 <div align="center">
-  <img width="80%" src ="https://user-images.githubusercontent.com/101160207/182981981-f2e19ef0-6785-433c-b983-fc7b61a4ce38.png"/>
+  <img width="100%" src ="https://user-images.githubusercontent.com/101160207/182981981-f2e19ef0-6785-433c-b983-fc7b61a4ce38.png"/>
+</div>
+
+<div align="right">
+  
+  ![hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunJaBoy%2F&count_bg=%23888888&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=true)
 </div>
 
 <div align="left">
@@ -48,11 +53,7 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJ Idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-1c1c1c?style=flat-square&logo=figma&logoColor=pink"/>
   
-  
-  <div align="right">
-  
-  ![hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunJaBoy%2F&count_bg=%23888888&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)
-  </div>
+  <a align="center" href="https://music.youtube.com/playlist?list=PL4VIU0OnVB6hnmhjupKfSloXFBcUUvnmE&feature=share>
     <img width="5%" src ="https://user-images.githubusercontent.com/101160207/182961411-65129cf8-fa7f-4cfe-9470-7b4b187084d0.svg"/>
-  </div>
+  </a>
 </body>
