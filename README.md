@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/badge/About Me-1FBF90?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
 
-[[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kajpjs0508&tag=BIO)](https://github.com/kajpjs0508/velog-readme-stats)
-![](https://velog-readme-stats.vercel.app/api?name=kajpjs0508&color=dark)](https://github.com/kajpjs0508/velog-readme-stats)
+[![](https://velog-readme-stats.vercel.app/api?name=kajpjs0508&tag=BIO)](https://velog.io/@kajpjs0508/bio)
+[![](https://velog-readme-stats.vercel.app/api?name=kajpjs0508&color=dark)]()
   
 # 💡
   
