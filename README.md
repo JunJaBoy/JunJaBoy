@@ -2,7 +2,6 @@
   <img width="80%" src ="https://user-images.githubusercontent.com/101160207/182981981-f2e19ef0-6785-433c-b983-fc7b61a4ce38.png"/>
 </div>
 
-
 <div align="left">
   <body bgcolor='yellow'>
   
@@ -13,6 +12,9 @@
   <a align="cenetr" href="https://velog.io/@kajpjs0508/bio">
     <img src="https://img.shields.io/badge/About Me-1FBF90?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
+
+[[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kajpjs0508&tag=BIO)](https://github.com/kajpjs0508/velog-readme-stats)
+![](https://velog-readme-stats.vercel.app/api?name=kajpjs0508&color=dark)](https://github.com/kajpjs0508/velog-readme-stats)
   
 # 💡
   
