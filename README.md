@@ -4,7 +4,7 @@
 
 <div align="right">
   
-  ![hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunJaBoy%2F&count_bg=%23888888&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=true)
+  ![hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunJaBoy%2F&count_bg=%23888888&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Today/Total&edge_flat=true)
 </div>
 
 <div align="left">
@@ -12,7 +12,7 @@
   
 # Junsu
   
-  안드로이드 앱 개발을 공부하고 있는 박준수입니다.<br/>항상 최고가 될 수는 없어도 항상 최선을 다하는 사람이 되겠습니다 *!*
+  안드로이드 앱 개발을 공부하고 있는 박준수입니다.<br/>모든 면에서 최고가 될 수는 없어도, 모든 면에서 최선을 다하는 사람이 되겠습니다 *!*
 <br/><br/>
   <a align="cenetr" href="https://velog.io/@kajpjs0508/bio">
     <img src="https://img.shields.io/badge/About Me-1FBF90?style=for-the-badge&logo=velog&logoColor=white"/>
@@ -23,7 +23,17 @@
   
 # 💡
   
-  - **email** : krpjs0508@gmail.com
+
+  <img src="https://img.shields.io/badge/krpjs0508@gmail.com-e24134?style=flat-square&logo=gmail&logoColor=white"/>
+  <a href="https://velog.io/@kajpjs0508">
+    <img src="https://img.shields.io/badge/준박수-1FBF90?style=flat-square&logo=velog&logoColor=white"/>
+  </a><br/>
+  <a href="https://www.instagram.com/_jnn_su">
+    <img src="https://img.shields.io/badge/__jnn__su-f703ae?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100039332744046">
+    <img src="https://img.shields.io/badge/박준수-1b78f3?style=flat-square&logo=facebook&logoColor=white"/>
+  </a><br/><br/>
     
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kajpjs0508)](https://solved.ac/kajpjs0508)
@@ -45,7 +55,7 @@
   </a>
     
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON-B5B5B5?style=flat=json&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JSON-B5B5B5?style=flat=Json&logoColor=black"/>
 
 ## 🛠️
 
