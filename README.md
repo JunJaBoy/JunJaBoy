@@ -11,9 +11,17 @@
   <body bgcolor='yellow'>
   
 # Junsu
+
+<br/>
+
+>*`"Two little mice fell into a bucket of cream. The first mouse quickly gave up and drowned, but the second mouse, he struggled so hard that he eventually churned that cream into butter and he walked out."`*
+<div align="right">
+― Frank William Abagnale
+</div>
+<br/>
   
   안드로이드 앱 개발을 공부하고 있는 박준수입니다.<br/>모든 면에서 최고가 될 수는 없어도, 모든 면에서 최선을 다하는 사람이 되겠습니다 *!*
-<br/><br/>
+<br/><br/><br/>
   <a align="cenetr" href="https://velog.io/@kajpjs0508/bio">
     <img src="https://img.shields.io/badge/About Me-1FBF90?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
