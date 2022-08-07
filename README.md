@@ -27,6 +27,9 @@
   <img src="https://img.shields.io/badge/krpjs0508@gmail.com-e24134?style=flat-square&logo=gmail&logoColor=white"/>
   <a href="https://velog.io/@kajpjs0508">
     <img src="https://img.shields.io/badge/준박수-1FBF90?style=flat-square&logo=velog&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/19387184/junjaboy">
+    <img src="https://img.shields.io/badge/JunJaBoy-f8900b?style=flat-square&logo=stackoverflow&logoColor=white"/>
   </a><br/>
   <a href="https://www.instagram.com/_jnn_su">
     <img src="https://img.shields.io/badge/__jnn__su-f703ae?style=flat-square&logo=instagram&logoColor=white"/>
