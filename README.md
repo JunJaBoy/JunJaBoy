@@ -26,8 +26,10 @@
     <img src="https://img.shields.io/badge/About Me-1FBF90?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
 
+<!--
 [![](https://velog-readme-stats.vercel.app/api?name=kajpjs0508&tag=BIO)](https://velog.io/@kajpjs0508/bio)
 [![](https://velog-readme-stats.vercel.app/api?name=kajpjs0508&color=dark)]()
+-->
   
 # 💡
   
