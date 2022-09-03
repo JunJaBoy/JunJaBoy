@@ -33,7 +33,7 @@
   
 # 💡
   
-
+- [StackOverflow Team](https://stackoverflow.com/c/android-developers-kr/questions)
   <img src="https://img.shields.io/badge/krpjs0508@gmail.com-e24134?style=flat-square&logo=gmail&logoColor=white"/>
   <a href="https://velog.io/@kajpjs0508">
     <img src="https://img.shields.io/badge/준박수-1FBF90?style=flat-square&logo=velog&logoColor=white"/>
