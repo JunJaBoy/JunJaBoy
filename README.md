@@ -28,7 +28,7 @@
   
   <div align="center">
   
-  [!!Portfolio!!](https://rightful-mustang-591.notion.site/The-pursuit-of-happyness-d5c6749dd56c4e8ea1525b7cec71d090)
+  [!!Portfolio!!](https://junjaboy.notion.site/The-pursuit-of-happyness-d5c6749dd56c4e8ea1525b7cec71d090)
   
   </div>
   
