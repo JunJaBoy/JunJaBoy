@@ -22,10 +22,16 @@
   
   안드로이드 앱 개발을 공부하고 있는 박준수입니다.<br/>모든 면에서 최고가 될 수는 없어도, 모든 면에서 최선을 다하는 사람이 되겠습니다 *!*
 <br/><br/><br/>
-  <a align="cenetr" href="https://velog.io/@kajpjs0508/bio">
+  <a align="center" href="https://velog.io/@kajpjs0508/bio">
     <img src="https://img.shields.io/badge/About Me-1FBF90?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
-
+  
+  <div align="center">
+  
+  [!!Portfolio!!](https://rightful-mustang-591.notion.site/The-pursuit-of-happyness-d5c6749dd56c4e8ea1525b7cec71d090)
+  
+  </div>
+  
 <!--
 [![](https://velog-readme-stats.vercel.app/api?name=kajpjs0508&tag=BIO)](https://velog.io/@kajpjs0508/bio)
 [![](https://velog-readme-stats.vercel.app/api?name=kajpjs0508&color=dark)]()
