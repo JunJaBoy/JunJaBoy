@@ -28,7 +28,7 @@
   
   <div align="center">
   
-  [![Portfolio](https://user-images.githubusercontent.com/101160207/191490449-b221c453-9f5e-4262-945a-29ef6ea5c3b1.png)](https://junjaboy.notion.site/The-pursuit-of-happyness-d5c6749dd56c4e8ea1525b7cec71d090)
+  [![Portfolio](https://user-images.githubusercontent.com/101160207/191491451-f334b57c-23a1-4a6c-b0d4-95340430b600.png)](https://junjaboy.notion.site/The-pursuit-of-happyness-d5c6749dd56c4e8ea1525b7cec71d090)
   
   </div>
   
