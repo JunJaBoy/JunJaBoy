@@ -28,8 +28,6 @@
   
   <div align="center">
   
-  [![Portfolio](https://user-images.githubusercontent.com/101160207/191491859-0e1f7a7b-5639-4d11-a173-13bee15afefc.png)](https://junjaboy.notion.site/The-pursuit-of-happyness-d5c6749dd56c4e8ea1525b7cec71d090)
-  
   </div>
   
 <!--
@@ -96,5 +94,7 @@
   </div>
     
 ---
-    
+
+  [![Portfolio](https://user-images.githubusercontent.com/101160207/191491859-0e1f7a7b-5639-4d11-a173-13bee15afefc.png)](https://junjaboy.notion.site/The-pursuit-of-happyness-d5c6749dd56c4e8ea1525b7cec71d090)    
+ 
 </body>
