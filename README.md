@@ -37,7 +37,7 @@
   
 # 💡
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kajpjs0508)](https://solved.ac/kajpjs0508)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JunJaBoy)](https://github.com/JunJaBoy/)
     
   <img src="https://img.shields.io/badge/krpjs0508@gmail.com-e24134?style=flat-square&logo=gmail&logoColor=white"/>
   <a href="https://velog.io/@kajpjs0508">
