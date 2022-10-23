@@ -38,8 +38,6 @@
 # 💡
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kajpjs0508)](https://solved.ac/kajpjs0508)
-
----
     
   <img src="https://img.shields.io/badge/krpjs0508@gmail.com-e24134?style=flat-square&logo=gmail&logoColor=white"/>
   <a href="https://velog.io/@kajpjs0508">
@@ -57,8 +55,6 @@
   <a href="https://www.facebook.com/profile.php?id=100039332744046">
     <img src="https://img.shields.io/badge/박준수-1b78f3?style=flat-square&logo=facebook&logoColor=white"/>
   </a><br/><br/>
-    
----
   
 # 📖
     
