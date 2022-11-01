@@ -3,6 +3,7 @@
 </div>
 
 <div align="right">
+  
   ![hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunJaBoy%2F&count_bg=%23888888&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Today/Total&edge_flat=true)
 </div>
 
