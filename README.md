@@ -82,16 +82,18 @@
   <img src="https://img.shields.io/badge/Figma-1c1c1c?style=flat-square&logo=figma&logoColor=pink"/>
 
 ---
--->
   <div align="center">
     <a href="https://music.youtube.com/playlist?list=PL4VIU0OnVB6jMForje8YuoFfZaIAjQBa_&feature=share">
-      <img width="5%" src ="https://user-images.githubusercontent.com/101160207/182961411-65129cf8-fa7f-4cfe-9470-7b4b187084d0.svg">
+      <!--<img width="5%" src ="[https://user-images.githubusercontent.com/101160207/182961411-65129cf8-fa7f-4cfe-9470-7b4b187084d0.svg](https://user-images.githubusercontent.com/101160207/211175365-6cab9a78-3153-46b8-9607-711ff46de3cc.png)">
      </a>
   </div>
-<!--
+  
 ---
 
   [![Portfolio](https://user-images.githubusercontent.com/101160207/197389209-f8e11b9d-1179-42a0-94df-8d5d44b0834b.png)](https://junsu.app)    
 
 </body>
 -->
+
+        
+[![](https://user-images.githubusercontent.com/101160207/211175365-6cab9a78-3153-46b8-9607-711ff46de3cc.png)](https://www.youtube.com/watch?v=kuaXso8UPEI&list=PL4VIU0OnVB6jKpb2hPeN0y76htaoFRT_-)
