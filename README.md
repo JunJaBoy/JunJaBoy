@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">
   <img width="100%" src ="https://user-images.githubusercontent.com/101160207/197389102-219925d5-88a4-4025-aae2-69aa03720c0e.png"/>
 </div>
 
@@ -30,10 +30,8 @@
 
   </div>
 
-<!--
 [![](https://velog-readme-stats.vercel.app/api?name=kajpjs0508&tag=BIO)](https://velog.io/@kajpjs0508/bio)
 [![](https://velog-readme-stats.vercel.app/api?name=kajpjs0508&color=dark)]()
--->
 
 # 💡
 
@@ -84,15 +82,16 @@
   <img src="https://img.shields.io/badge/Figma-1c1c1c?style=flat-square&logo=figma&logoColor=pink"/>
 
 ---
-
+-->
   <div align="center">
     <a href="https://music.youtube.com/playlist?list=PL4VIU0OnVB6jMForje8YuoFfZaIAjQBa_&feature=share">
       <img width="5%" src ="https://user-images.githubusercontent.com/101160207/182961411-65129cf8-fa7f-4cfe-9470-7b4b187084d0.svg">
      </a>
   </div>
-
+<!--
 ---
 
   [![Portfolio](https://user-images.githubusercontent.com/101160207/197389209-f8e11b9d-1179-42a0-94df-8d5d44b0834b.png)](https://junsu.app)    
 
 </body>
+-->
