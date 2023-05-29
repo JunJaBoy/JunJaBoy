@@ -5,7 +5,8 @@
 </div> -->
 
 
-<div align ="center">
+<div align="center">
   
-  [![](https://github.com/JunJaBoy/JunJaBoy/assets/101160207/368cfd9b-2e4f-4200-a732-12f45bd4f3bf)](https://www.youtube.com/watch?v=tiFpz-FxSJg&list=PL4VIU0OnVB6jKpb2hPeN0y76htaoFRT_-&index=1)
+  [![](https://github-production-user-asset-6210df.s3.amazonaws.com/101160207/241609936-368cfd9b-2e4f-4200-a732-12f45bd4f3bf.png)](https://www.youtube.com/watch?v=tiFpz-FxSJg&list=PL4VIU0OnVB6jKpb2hPeN0y76htaoFRT_-&index=1)
+
 </div>
